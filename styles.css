@@ -1,0 +1,10 @@
+#homepage-title {
+    background-color:darkred;
+    color: white;
+    font-family: sans-serif verdana 'Times New Roman';
+    text-align: center;
+}
+
+.recipes-ul {
+    list-style-type: circle;
+}
