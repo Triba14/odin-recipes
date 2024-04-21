@@ -6,5 +6,12 @@
 }
 
 .recipes-ul {
+    display: flex;
+    flex-direction: column;
     list-style-type: circle;
+    padding-left: 3%;
+}
+
+a {
+    text-decoration: none;
 }
